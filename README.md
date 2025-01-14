@@ -83,8 +83,6 @@ This Python script captures and logs DNS queries by listening to UDP traffic on 
 - **No packets captured**: Ensure you have the necessary permissions (root/admin).
 - **On Windows**: Raw sockets may require additional configuration. If you're on Windows, you might need to install WinPcap or use a tool like `npf` for packet capturing.
 
-## License
-
 This project is licensed under the MIT License.
 
 ---
